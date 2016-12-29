@@ -9,6 +9,7 @@ namespace DotNetCoreConsoleApp1
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
