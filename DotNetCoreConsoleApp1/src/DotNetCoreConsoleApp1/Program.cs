@@ -9,7 +9,7 @@ namespace DotNetCoreConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("hello from windows visual studio bootcamp - mac");
         }
     }
 }
