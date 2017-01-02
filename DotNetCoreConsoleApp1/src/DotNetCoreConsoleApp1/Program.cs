@@ -9,8 +9,9 @@ namespace DotNetCoreConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("hello from windows visual studio bootcamp - mac");
+            Console.WriteLine("hello from windows visual studio - habanaro-bc");
             Console.WriteLine("hello from windows visual studio - hatetank");
+            Console.WriteLine("hello from visual studio code - habanero");
             Console.ReadLine();
         }
     }
