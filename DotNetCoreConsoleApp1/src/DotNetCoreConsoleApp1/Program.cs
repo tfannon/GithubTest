@@ -10,6 +10,8 @@ namespace DotNetCoreConsoleApp1
         public static void Main(string[] args)
         {
             Console.WriteLine("hello from windows visual studio bootcamp - mac");
+            Console.WriteLine("hello from windows visual studio - hatetank");
+            Console.ReadLine();
         }
     }
 }
